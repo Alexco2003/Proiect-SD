@@ -1,6 +1,6 @@
 # Proiect-Structuri-de-Date
 
-Algoritmi de sortare (Count Sort, Merge Sort, Quick Sort, Shell Sort, Radix Sort (base 10), Radix Sort (base 256)
+Algoritmi de sortare (Count Sort, Merge Sort, Quick Sort, Shell Sort, Radix Sort (base 10), Radix Sort (base 256))
 
 
 Count Sort -> O(n+k) : n - number of elements, k - range of the elements
