@@ -4,12 +4,10 @@ Algoritmi de sortare (Count Sort, Merge Sort, Quick Sort, Shell Sort, Radix Sort
 
 
 Count Sort -> O(n+k) : n - number of elements, k - range of the elements
-
 ![Count Sort -> O(n+k) : n - number of elements, k - range of the elements](https://user-images.githubusercontent.com/105515716/226142841-996aca6a-3b42-4e28-9764-e736db995a60.png)
 
 
 Merge Sort -> O(n*log n) : n - number of elements
-
 ![Merge Sort -> O(n*log n) : n - number of elements](https://user-images.githubusercontent.com/105515716/226143030-411b5ac8-cd45-4ab2-aa1e-8086d3a3e5b9.png)
 
 
